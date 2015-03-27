@@ -3,7 +3,7 @@ Avast, Ye Pirates: Write a Web App Code Lab
 
 [![Build Status](https://drone.io/github.com/dart-lang/one-hour-codelab/status.png)](https://drone.io/github.com/dart-lang/one-hour-codelab/latest)
 
-These are small Dart samples used by the codelab [Avast Ye, Pirates][codelab], in which you learn to build a web app and takes about an hour to complete.
+These are small Dart samples used by the codelab [Avast Ye, Pirates][codelab], in which you learn to build a web app that takes about an hour to complete.
 
 Repository and testing
 ----------------
